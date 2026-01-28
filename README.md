@@ -69,9 +69,4 @@ flutter run
 
 `#Flutter` `#Dart` `#MobileDev` `#UIUX` `#Internship` `#Navigation` `#Lumina` `#CleanUI` `#Animations`
 
-```
 
-
-Would you like me to create a **"Screenshots" placeholder section** or add a **GIF demonstration** link to the file?
-
-```
